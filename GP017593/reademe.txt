@@ -1,0 +1,10 @@
+Creating a new branch is quick.
+add merge
+<<<<<<< HEAD
+b commit the file.
+a modify the file
+=======
+Git is a free software.
+Emploee A modify the file.
+
+>>>>>>> 92a6c525bc132eead40342b77d0192a01fc026f3
