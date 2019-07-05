@@ -6,3 +6,4 @@ Git is a free software.
 Emploee A modify the file.
 
 dev branch
+one people modify the reademe file
